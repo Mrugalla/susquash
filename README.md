@@ -2,8 +2,10 @@
 a plugin that crushes shit massively.
 
 
-it has 2 knobs.
+it has 2 knobs:
+
 squash >> how much it squashes shit.
+
 gain >> how much quieter you want your squashed shit to be.
 
 
