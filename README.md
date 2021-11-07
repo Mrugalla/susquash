@@ -1,9 +1,12 @@
 # susquash
 a plugin that crushes shit massively.
 
+
 it has 2 knobs.
 squash >> how much it squashes shit.
+
 gain >> how much quieter you want your squashed shit to be.
+
 
 this plugin was inspired by a video by dan worrall in which he presented a
 full beat, that he made, which only consists of 1s and -1s.
