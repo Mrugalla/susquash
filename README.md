@@ -11,7 +11,7 @@ gain >> how much quieter you want your squashed shit to be.
 
 this plugin was inspired by a video by dan worrall in which he presented a
 full beat, that he made, which only consists of 1s and -1s.
-i felt like that's a really creative thing to do and there should be
+i felt like that's a really creative thing to do and their should be
 a plugin that helps producers to squash there shit to death, sooo,
 here it is :)
 
